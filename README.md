@@ -13,4 +13,4 @@ A little bit of study material and reussies of the various services to try to be
 - [ElastiCache](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-elasticache.md)
 - [Route 53](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-route-53.md)
 - [VPC: Virtual Pivate Cloud](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-vpc.md)
-- [S3 Buckets](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-vpc.md)
+- [S3 Buckets](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-s3.md)
