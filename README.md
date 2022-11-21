@@ -6,6 +6,7 @@ Un po' di materiale di studio e di riassunti in italiano dei vari servizi per pr
 - [IAM: Identity and Access Management](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-iam.md)
 - [EC2: Elastic Compute Cloud](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-ec2.md)
 - [EBS: Elastic Block Store](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-ebs.md)
+- [EFS: Elastic File Store](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-efs.md)
 - [ELB: Elastic Load Balancer](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-elb.md)
 - [ASG: Auto Scaling Group](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-asg.md)
 - [SG: Security Group](https://github.com/Alessandro-Mac7/aws-pills/blob/developer_DVA-C01/fundamentals/aws-sg.md)
